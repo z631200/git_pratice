@@ -19,7 +19,7 @@ int main()
     } 
 	
 	else
-		printf("Not Fun");
+		printf("Not good?");
 	////////////////////////////////////	
 		
 		
